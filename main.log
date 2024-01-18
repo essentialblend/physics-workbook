@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.11.9)  14 NOV 2023 13:26
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.11.9)  18 JAN 2024 17:43
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -987,7 +987,7 @@ Package caption Info: End \AtBeginDocument code.
 
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<./images/titleCover.png, id=98, 1027.84pt x 1798.72pt>
+<./images/titleCover.png, id=97, 1027.84pt x 1798.72pt>
 File: ./images/titleCover.png Graphic file (type png)
 <use ./images/titleCover.png>
 Package luatex.def Info: ./images/titleCover.png  used on input line 97.
@@ -1000,7 +1000,7 @@ nstead on input line 99.
 \tf@toc=\write5
 
 \openout5 = main.toc
-<./images/titleCover2.png, id=117, 1027.84pt x 1798.72pt>
+<./images/titleCover2.png, id=116, 1027.84pt x 1798.72pt>
 File: ./images/titleCover2.png Graphic file (type png)
 <use ./images/titleCover2.png>
 Package luatex.def Info: ./images/titleCover2.png  used on input line 105.
@@ -1302,18 +1302,19 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 31568 strings out of 476603
+ 31566 strings out of 476603
  125056,1977958 words of node,token memory allocated
- 1321 words of node memory still in use:
-   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 84 attribute, 55 glue_sp
+ 1316 words of node memory still in use:
+   31 hlist, 2 vlist, 14 rule, 2 glue, 4 kern, 1 glyph, 84 attribute, 54 glue_sp
 ec, 84 attribute_list, 4 write, 24 pdf_literal, 24 pdf_colorstack nodes
-   avail lists: 2:1996,3:563,4:72,5:618,6:39,7:7216,8:77,9:1584,10:25,11:451
- 52637 multiletter control sequences out of 65536+600000
- 63 fonts using 4462455 bytes
+   avail lists: 1:1,2:1996,3:563,4:72,5:618,6:39,7:7216,8:77,9:1584,10:25,11:451
+
+ 52635 multiletter control sequences out of 65536+600000
+ 61 fonts using 4284199 bytes
  91i,26n,95p,1047b,1022s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Users/Siddharth Nair/AppData/Local/Microsoft/Windows/Fonts/AvenirNextLTPro-B
-old.otf><c:/Users/Siddharth Nair/AppData/Local/Microsoft/Windows/Fonts/AvenirNex
-tLTPro-It.otf><c:/Users/Siddharth Nair/AppData/Local/Microsoft/Windows/Fonts/Ave
+<c:/Users/Siddharth Nair/AppData/Local/Microsoft/Windows/Fonts/AvenirNextLTPro-I
+t.otf><c:/Users/Siddharth Nair/AppData/Local/Microsoft/Windows/Fonts/AvenirNextL
+TPro-Bold.otf><c:/Users/Siddharth Nair/AppData/Local/Microsoft/Windows/Fonts/Ave
 nirNextLTPro-Regular.otf><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10
 .pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/te
@@ -1323,7 +1324,7 @@ fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/latxf
 ont/line10.pfb>
-Output written on main.pdf (30 pages, 34079052 bytes).
+Output written on main.pdf (30 pages, 34078662 bytes).
 
 PDF statistics: 362 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams
